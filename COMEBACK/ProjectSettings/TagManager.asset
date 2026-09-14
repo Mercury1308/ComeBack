@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OurShip
+  - Pirate
+  - PirateSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Soldier
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sea
+    uniqueID: 888266643
+    locked: 0
+  - name: We
+    uniqueID: 3122301539
+    locked: 0
+  - name: Soldier
+    uniqueID: 1622819973
+    locked: 0
+  - name: PirateBoat
+    uniqueID: 1422662251
+    locked: 0
+  - name: SomaliCharacter
+    uniqueID: 323337961
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
